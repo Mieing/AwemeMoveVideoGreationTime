@@ -1,0 +1,11 @@
+Package: cn.lly-sttt.awememovevideogreationtime
+Name: AwemeMoveVideoGreationTime
+Description: AwemeMoveVideoGreationTime
+Maintainer: lly·sttt
+Author: lly·sttt
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Architecture: iphoneos-arm
+Version: 1.0.0-2
+Installed-Size: 72
